@@ -26,9 +26,9 @@ I trigger my framework from my runner class.
 # Final Comments
 
 Hope this Assignment matches your expections. 
-thank you for your consideration,
+thank you for your consideration.
 
-Michael Akkawi 
+
 
 
 
